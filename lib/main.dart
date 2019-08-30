@@ -128,7 +128,7 @@ class GauntletState extends State<Gauntlet> {
     });
 
     ionicKey.currentState.isGone
-        ? bringBackIonic()
+        ? ionicKey.currentState.reset()
         : ionicKey.currentState.snap();
 
     xamarinKey.currentState.isGone
@@ -146,13 +146,6 @@ class GauntletState extends State<Gauntlet> {
     });
   }
 
-  void bringBackIonic() {
-    try {
-      ionicKey.currentState.reset();
-    } catch (e) {
-      print("problem");
-    }
-  }
 
   @override
   Widget build(BuildContext context) {
