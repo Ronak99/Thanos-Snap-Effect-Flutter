@@ -1,6 +1,7 @@
 # thanos_snap in Flutter
 
 Simple thanos snap effect inspired by Google's Easter.
+Checkout the video guide for this library [here](https://www.youtube.com/watch?v=uIw9K6ix4c0) 
 
 ## Plugins
 
