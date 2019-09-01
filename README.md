@@ -9,8 +9,8 @@ Checkout the video guide for this library [here](https://www.youtube.com/watch?v
 Check out [blog post](https://fidev.io/thanos) describing the package on Fidev.
 
 ## GIF's
-<center>
-<img src='gifs/logo_snap.gif' width='30%'>
+
+<img src='gifs/logo_snap.gif' width='30%' align='left'>
 
 <img src='gifs/framework_snap.gif' width='30%' >
-</center>
+
